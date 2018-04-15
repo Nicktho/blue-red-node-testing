@@ -4,7 +4,9 @@ This package aims to provide a opinionated implementation of [blue-red-testing](
 ## Get started
 
 Install the package
-`yarn add blue-red-node-testing`
+```
+yarn add blue-red-node-testing
+```
 
 Find a cosy place in your server where you can access `res` and `req` to place this test as it requires access to your cookies.
 ```
