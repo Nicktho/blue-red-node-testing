@@ -1,6 +1,6 @@
 {
   "name": "blue-red-node-testing",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "AB testing on node server",
   "main": "index.js",
   "scripts": {
