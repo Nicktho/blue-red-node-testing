@@ -61,6 +61,7 @@ const aBTest = (res, req) => (testName, testConfig) => {
 
   return {
     name,
+    userID,
     result: {
       groupName: testGroup,
       outcome: testObject.test(testGroup, testConfig)
