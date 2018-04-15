@@ -6,6 +6,10 @@
   "scripts": {
     "test": "ava test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyfchong/blue-red-node-testing.git"
+  },
   "keywords": [
     "ab-testing",
     "testing",
@@ -16,6 +20,10 @@
   ],
   "author": "Geoffrey Chong",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gyfchong/blue-red-node-testing/issues"
+  },
+  "homepage": "https://github.com/gyfchong/blue-red-node-testing",
   "dependencies": {
     "ava": "^0.25.0",
     "blue-red-testing": "^1.0.0",
