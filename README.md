@@ -1,5 +1,5 @@
 # AB Testing on the server
-This package aims to provide a opinionated implementation of (blue-red-testing)[https://github.com/gyfchong/blue-red-testing].
+This package aims to provide a opinionated implementation of [blue-red-testing]([https://github.com/gyfchong/blue-red-testing) package.
 
 ## Get started
 
