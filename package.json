@@ -1,0 +1,25 @@
+{
+  "name": "blue-red-node-testing",
+  "version": "1.0.0",
+  "description": "AB testing on node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test"
+  },
+  "keywords": [
+    "ab-testing",
+    "testing",
+    "node",
+    "nodejs",
+    "express",
+    "server"
+  ],
+  "author": "Geoffrey Chong",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.25.0",
+    "blue-red-testing": "^1.0.0",
+    "lodash.kebabcase": "^4.1.1",
+    "randomstring": "^1.1.5"
+  }
+}
